@@ -5,6 +5,15 @@
 {"key":"csp_QQ","name":"🍅腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_IQIYI","name":"🥝爱奇艺(官)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
 {"key":"csp_MGTV","name":"🍋芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.liucn.cc/box/sub/ext/qq_qiyi_mgtv.jpg"},
+{
+  "key": "抖音小姐姐",
+  "name": "抖音小姐姐",
+  "type": 4,
+  "api": "http://120.53.102.254/xjj",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 1
+},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"T4_douban1","name":"🔍影视推荐1(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
@@ -45,15 +54,7 @@
       "quickSearch": 0,
       "filterable": 1
     },
-       {
-      "key": "抖音小姐姐",
-      "name": "抖音小姐姐",
-      "type": 4,
-      "api": "http://120.53.102.254/xjj",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
+      
      {
       "key": "T4直播转点播",
       "name": "T4直播转点播",
